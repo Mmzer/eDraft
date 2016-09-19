@@ -10,3 +10,4 @@
 		autoRealse:true   //设置此值时，停留在页面上30分钟后自动释放缓存
 	});
 `Test
+Test6666
